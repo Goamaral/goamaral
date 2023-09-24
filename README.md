@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
 
-<p align="center">Currently working with Go and Typescript but never forgetting my love for Rails</p>
+<h5 align="center">Currently working with Go and Typescript but never forgetting my love for Rails</h3>
+<p align="center">I always experimented a lot on my free time but never documented it.</p>
+<p align="center">Lately I have been writing articles about everything I explore and challenges I face.</p>
+<p align="center">This way I can make notes for me and share with others.</p>
+<p align="center">Check medium or dev.to if you are curious.</p>
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=goamaral&show_icons=true&locale=en&layout=compact" alt="goamaral" />
