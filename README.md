@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
+<h5 align="center">
+  <a href="https://goamaral.github.io/resume" align="center">Resume</a>
+</h5>
 
 <h5 align="center">Currently working with Go and Typescript</h3>
 <p align="center">I always experimented a lot on my free time but never documented it.</p>
@@ -7,7 +10,7 @@
 <p align="center">Check medium or dev.to if you are curious.</p>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=goamaral&show_icons=true&locale=en&layout=compact" alt="goamaral" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goamaral&show_icons=true&locale=en&layout=compact" alt="goamaral" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
