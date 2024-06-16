@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
 
-<h5 align="center">Currently working with Go and Typescript but never forgetting my love for Rails</h3>
+<h5 align="center">Currently working with Go and Typescript</h3>
 <p align="center">I always experimented a lot on my free time but never documented it.</p>
 <p align="center">Lately I have been writing articles about everything I explore and challenges I face.</p>
 <p align="center">This way I can make notes for me and share with others.</p>
